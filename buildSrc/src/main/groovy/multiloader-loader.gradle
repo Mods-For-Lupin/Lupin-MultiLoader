@@ -3,15 +3,19 @@ plugins {
 }
 
 configurations {
-    commonJava{
+    commonJava {
         canBeResolved = true
     }
-    commonResources{
+    commonResources {
         canBeResolved = true
     }
 }
 
 dependencies {
+
+    // nullable and notnull annotations
+    compileOnly 'org.jetbrains:annotations:26.0.2'
+
     compileOnly(project(':common')) {
         capabilities {
             requireCapability "$group:$mod_id"
