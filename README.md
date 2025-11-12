@@ -4,6 +4,6 @@
 
 ## You're probably looking for one of these:
 
-- [1.20.1 Source](/tree/1.20.1)
-- [1.21.1 Source](/tree/1.21.1)
-- [1.21.9 Source](/tree/1.21.9)
+- [1.20.1 Source](https://github.com/Mods-For-Lupin/Lupin-MultiLoader/tree/1.20.1)
+- [1.21.1 Source](https://github.com/Mods-For-Lupin/Lupin-MultiLoader/tree/1.21.1)
+- [1.21.9 Source](https://github.com/Mods-For-Lupin/Lupin-MultiLoader/tree/1.21.9)
